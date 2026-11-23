@@ -121,7 +121,7 @@ const animais = ["Arara","Orca","Tubarão"];
 
 console.log(animais);
 
-const animaisSplice = animais.splice(0,3, "Leão", "Tigre");
+const animaisSplice = animais.splice(2,3, "Leão", "Tigre");
 
 console.log(animaisSplice);
 
